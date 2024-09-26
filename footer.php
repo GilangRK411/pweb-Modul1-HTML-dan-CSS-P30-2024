@@ -1,4 +1,4 @@
-<!-- add <?php include "./footer.html" ?> to the desired placement -->
+<!-- add <?php include "./footer.php" ?> to the desired placement -->
 
 <!DOCTYPE html>
 <html>
