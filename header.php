@@ -1,4 +1,4 @@
-<!-- add <?php include "./header.html" ?> to the desired placement -->
+<!-- add <?php include "./header.php" ?> to the desired placement -->
 
 <!DOCTYPE html>
 <html>
